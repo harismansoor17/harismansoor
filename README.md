@@ -1,56 +1,112 @@
-# Haris Mansoor
+# Hi, I'm Haris Mansoor 👋
 
-Welcome to my Git Hub! My Git Hub Repos contains the source code for my personal portfolio website, showcasing my skills, projects, and contact information.
+Welcome to my GitHub!
 
-## Table of Contents
+This GitHub profile showcases my projects, experiments, and web development journey. Here you'll find applications and websites I've built while learning and working with modern frontend technologies.
 
-- [About](#about)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Projects](#projects)
-- [License](#license)
-- [Contact](#contact)
+## 📖 Table of Contents
 
-## About
+* About
+* Features
+* Technologies & Tools
+* Featured Project
+* License
+* Contact
 
-I am Haris Mansoor, a beginner front-end developer passionate about creating engaging and user-friendly websites. These Repos are a compilation of my work, demonstrating my skills in HTML, CSS, JavaScript, Tailwind CSS.
+---
 
-## Features
+## 🚀 About
 
-- **Responsive Design**: Works on all devices (desktops, tablets, mobile phones)
-- **Project Showcase**: Displays a selection of my projects with live demos and source code links
-- **Skills Section**: Highlights the technologies and tools I am proficient in
-- **Contact Form**: Allows visitors to reach out to me directly
+I'm **Haris Mansoor**, a **Web Developer** passionate about building modern, responsive, and user-friendly web experiences.
 
-## Technologies Used
+I enjoy turning ideas into functional websites with clean UI, smooth interactions, and optimized performance. I'm continuously learning new technologies and improving my skills by building real-world projects.
 
-- HTML
-- CSS
-- JavaScript
-- Tailwind CSS
-- Boot Strap
-- WordPress
-- WooCommerce
+---
 
-## Projects
+## ✨ Features
 
-### Project 1: [Portfolio]
-- Description:A Personal Portfolio web page .
-- Technologies: HTML, CSS, JavaScript
-- Live Demo: [[https://harismansoor.vercel.app/](https://harismansoor.vercel.app/)]
+* 📱 Fully Responsive Designs
+* ⚡ Performance Optimized Websites
+* 🎨 Modern UI/UX
+* 💼 Project Showcase with Live Demos
+* 📬 Contact Form
+* 🔍 SEO-Friendly Structure
+* ♿ Accessibility Focused
 
-## License
+---
 
-You Dont Have My Permission to use my work..
+## 💻 Technologies & Tools
 
-## Contact
+### Frontend
 
-Feel free to reach out to me via the contact form on my portfolio or through the following channels:
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* TypeScript
+* React.js
+* Next.js
+* Tailwind CSS
+* Bootstrap
+* Webflow
 
-- Email: [harisdev2005@gmail.com](mailto:harisdev2005@gmail.com)
-- **GitHub**: [harismansoor17](https://github.com/harismansoor17)
-- LinkedIn: [haris-mansoor](https://www.linkedin.com/in/haris-mansoor-b77235318/)
+### Design
 
+* Figma
 
-Thank you for visiting my profile!
+### Backend
 
+* PHP
+
+### CMS & E-Commerce
+
+* WordPress
+* WooCommerce
+
+### Version Control
+
+* Git
+* GitHub
+
+---
+
+## 🌟 Featured Project
+
+### Personal Portfolio
+
+A modern personal portfolio designed and developed using **Webflow** to showcase my skills, projects, and experience.
+
+### Highlights
+
+* Responsive across all devices
+* Smooth animations and interactions
+* Optimized performance
+* SEO-friendly
+* Modern and clean interface
+
+🔗 **Live Demo:** https://harismansoor.webflow.io/
+
+---
+
+## 📄 License
+
+This repository is for portfolio purposes only.
+
+Please do **not** copy, redistribute, or reuse the code or design without my permission.
+
+---
+
+## 📫 Contact
+
+📧 **Email:** [harisdev2005@gmail.com](mailto:harisdev2005@gmail.com)
+
+🐙 **GitHub:** https://github.com/harismansoor17
+
+💼 **LinkedIn:** https://www.linkedin.com/in/haris-mansoor-b77235318/
+
+🌐 **Portfolio:** https://harismansoor.webflow.io/
+
+---
+
+Thank you for visiting my GitHub profile!
+
+If you like my work, feel free to ⭐ my repositories or connect with me on LinkedIn.
