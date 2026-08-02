@@ -37,7 +37,7 @@ I am Haris Mansoor, a beginner front-end developer passionate about creating eng
 ### Project 1: [Portfolio]
 - Description:A Personal Portfolio web page .
 - Technologies: HTML, CSS, JavaScript
-- Live Demo: [[https://haris-mansoor.vercel.app/](https://haris-mansoor.vercel.app/)]
+- Live Demo: [[https://harismansoor.vercel.app/](https://harismansoor.vercel.app/)]
 
 ## License
 
