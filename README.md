@@ -56,10 +56,17 @@ I enjoy turning ideas into functional websites with clean UI, smooth interaction
 ### Backend
 
 * PHP
+* NeXt
+  
+### DataBase
+
+* Mongo DB
+* My SQL  
 
 ### CMS & E-Commerce
 
 * WordPress
+* WebFLow
 * WooCommerce
 
 ### Version Control
@@ -73,7 +80,7 @@ I enjoy turning ideas into functional websites with clean UI, smooth interaction
 
 ### Personal Portfolio
 
-A modern personal portfolio designed and developed using **Webflow** to showcase my skills, projects, and experience.
+A modern personal portfolio designed and developed using **HTML, CSS, JS** to showcase my skills, projects, and experience.
 
 ### Highlights
 
@@ -83,7 +90,7 @@ A modern personal portfolio designed and developed using **Webflow** to showcase
 * SEO-friendly
 * Modern and clean interface
 
-🔗 **Live Demo:** https://harismansoor.webflow.io/
+🔗 **Live Demo:** https://harismansoor.vercel.app/
 
 ---
 
@@ -101,9 +108,9 @@ Please do **not** copy, redistribute, or reuse the code or design without my per
 
 🐙 **GitHub:** https://github.com/harismansoor17
 
-💼 **LinkedIn:** https://www.linkedin.com/in/haris-mansoor-b77235318/
+💼 **LinkedIn:** https://www.linkedin.com/in/haris-mansoor-dev/
 
-🌐 **Portfolio:** https://harismansoor.webflow.io/
+🌐 **Portfolio:** https://harismansoor.vercel.app/
 
 ---
 
